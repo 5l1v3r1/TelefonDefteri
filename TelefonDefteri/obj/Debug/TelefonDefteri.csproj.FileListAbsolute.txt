@@ -1,0 +1,13 @@
+c:\users\deren\documents\visual studio 2013\Projects\TelefonDefteri\TelefonDefteri\bin\Debug\TelefonDefteri.exe.config
+C:\Users\deren\documents\visual studio 2013\Projects\TelefonDefteri\TelefonDefteri\bin\Debug\TelefonDefteri.exe
+C:\Users\deren\documents\visual studio 2013\Projects\TelefonDefteri\TelefonDefteri\bin\Debug\TelefonDefteri.pdb
+C:\Users\deren\documents\visual studio 2013\Projects\TelefonDefteri\TelefonDefteri\bin\Debug\EntityFramework.dll
+C:\Users\deren\documents\visual studio 2013\Projects\TelefonDefteri\TelefonDefteri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deren\documents\visual studio 2013\Projects\TelefonDefteri\TelefonDefteri\bin\Debug\EntityFramework.xml
+C:\Users\deren\documents\visual studio 2013\Projects\TelefonDefteri\TelefonDefteri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deren\documents\visual studio 2013\Projects\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.csprojResolveAssemblyReference.cache
+C:\Users\deren\documents\visual studio 2013\Projects\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.TelefonDefteri.resources
+C:\Users\deren\documents\visual studio 2013\Projects\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.Properties.Resources.resources
+C:\Users\deren\documents\visual studio 2013\Projects\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.csproj.GenerateResource.Cache
+C:\Users\deren\documents\visual studio 2013\Projects\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.exe
+C:\Users\deren\documents\visual studio 2013\Projects\TelefonDefteri\TelefonDefteri\obj\Debug\TelefonDefteri.pdb
